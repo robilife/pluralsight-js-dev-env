@@ -19,6 +19,12 @@ app.get('/', function(req, res){
     res.sendFile(path.join(__dirname, '../src/index.html'));
 });
 
+app.get('/users', function(req, res) {
+  res.json([
+    {"id": 1, "firstname": "khk", "lastname": "kane", "email" : "khk@optesis.com"}
+  ]);
+});
+
 app.listen(port, function(error){
   if(error){
     console.log(error);
