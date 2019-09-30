@@ -1,16 +1,1 @@
-{
-  "users": [
-    {
-      "id": 93841952.71049652,
-      "firstName": "do incididunt velit consectetur",
-      "lastName": "ut in",
-      "email": "nisi culpa incididunt dolore"
-    },
-    {
-      "id": 10387078.911855713,
-      "firstName": "ad dolore et magna",
-      "lastName": "irure Lorem nisi Duis occaecat",
-      "email": "in nulla ut"
-    }
-  ]
-}
+{"users":[{"id":95503323.22925237,"firstName":"ut Duis in exercitation","lastName":"proident","email":"exercitation"},{"id":41762443.15000509,"firstName":"veniam","lastName":"do adipisicing","email":"sunt"},{"id":96880347.23593532,"firstName":"reprehenderit eu","lastName":"ullamco ea","email":"dolore consequat"},{"id":54788354.68040451,"firstName":"ea","lastName":"irure Duis","email":"labore offic"}]}
